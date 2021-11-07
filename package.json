@@ -1,0 +1,19 @@
+{
+  "name": "poke-top-trumps",
+  "version": "1.0.0",
+  "description": "pokemon top trumps card game written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodeNameAshley/pokemon-top-trumps.git"
+  },
+  "author": "ajlhuillier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeNameAshley/pokemon-top-trumps/issues"
+  },
+  "homepage": "https://github.com/CodeNameAshley/pokemon-top-trumps#readme"
+}
