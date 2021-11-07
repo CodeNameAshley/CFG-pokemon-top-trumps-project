@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CodeNameAshley/pokemon-top-trumps/issues"
   },
-  "homepage": "https://github.com/CodeNameAshley/pokemon-top-trumps#readme"
+  "homepage": "https://github.com/CodeNameAshley/pokemon-top-trumps#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
